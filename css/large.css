@@ -2,4 +2,10 @@
     .large-3 {
         width: 25%;
     }
+/* aligns navigation with the logo */
+    nav ul {margin-left: 2vw;}
+ /* each nav takes width of text content */
+    nav li {width: auto;}
+    nav a {padding: .7rem 1rem;}
+
 }

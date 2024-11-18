@@ -11,4 +11,8 @@
     header img {
         height: 100px;
     }
+
+    nav button {display: none;}
+    nav ul {display: block;}
+    nav li {float: left; width: 25%;}
 }

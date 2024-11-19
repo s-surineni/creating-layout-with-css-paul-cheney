@@ -105,3 +105,8 @@ nav a:hover {
 }
 nav ul {display: none;}
 nav ul.open {display: block;}
+
+main img {
+    width: 100%;
+    height: auto;
+}
